@@ -3,13 +3,13 @@ Python is a clear and powerful object-oriented programming language, comparable 
 
 
 
-What I will Learn ?
+**What I will Learn?**
 
 You will learn Core Python Programming.
 
 
 
-Requirements:
+**Requirements:**
 
 Windows, Mac or Linux
 
@@ -19,7 +19,7 @@ Text Editor i.e. Notepad ++, VS Code
 
 
 
-We are covering in this course?
+**What is covered in this course?**
 
 Introduction to Python
 
