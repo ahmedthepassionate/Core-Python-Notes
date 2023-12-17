@@ -1,13 +1,13 @@
 # Core-Python-Notes
 Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, or Java.
 
-
+<br>
 
 **What I will Learn?**
 
 You will learn Core Python Programming.
 
-
+<br>
 
 **Requirements:**
 
@@ -17,7 +17,7 @@ Internet access
 
 Text Editor i.e. Notepad ++, VS Code
 
-
+<br>
 
 **What is covered in this course?**
 
